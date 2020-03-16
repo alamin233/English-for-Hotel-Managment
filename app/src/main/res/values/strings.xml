@@ -1,15 +1,6 @@
 <resources>
     <string name="app_name">English-for-Hotel-Managment</string>
 
-    <string name="recep1">do you have reservation?</string>
-    <string name="recba1">তোমার কি রিজার্ভেশন আছে?</string>
-    <string name="recep2">How long will you be  staying ?</string>
-    <string name="recban2">কতক্ষণ থাকবেন?</string>
-    <string name="recep3">Could I see your ID,please ?</string>
-    <string name="recban3">
-আমি আপনার আইডি দেখতে পারে,দয়া করে?</string>
-    <string name="recep4">Could you please fill out this form?</string>
-    <string name="recban4">আপনি কি এই ফর্মটি পূরণ করতে পারেন?</string>
     <string name="gmal">Gmail :</string>
     <string name="gender">Gender :</string>
 

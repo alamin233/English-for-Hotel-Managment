@@ -105,9 +105,9 @@
     <Button
         android:id="@+id/button5"
         android:layout_width="match_parent"
-        android:layout_marginTop="10"
+        android:layout_marginTop="10dp"
         android:layout_height="wrap_content"
-        android:background="@drawable/primaryButton"
+        android:background="@drawable/primarybutton"
         android:gravity="center"
         android:textSize="30dp"
         tools:ignore="MissingConstraints"
